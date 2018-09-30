@@ -90,4 +90,4 @@ Be careful: If you don't use your "prefs" computed property anywhere your new se
 
 I hope you find this technique useful.
 
-You can find the full thing on [my github profile](https://github.com/matiasmolleja).
+You can find the full thing on [my github profile](https://github.com/matiasmolleja/blog-posts-code/tree/master/blog-vue-localstorage).
